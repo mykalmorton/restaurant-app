@@ -1,10 +1,10 @@
-#Udacity Restaurant Review App 
+# Udacity Restaurant Review App 
 The last project for the Udacity Front End Developer NanoDegree. 
 
-##Getting Started
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for reviewing and testing out the application. For the FEND NanoDegree, only the first part of a three part MWS NanoDegree project were required. Usage instructions are not much more than getting a Python server running, and point your browser to the required port.
 
-##Prerequisites
+## Prerequisites
 Python 2 or 3 are required to run this web application. For Linux/Unix based systems, as well as MacOS, Python is usually included. Go to terminal and check your Python version by typing Python -V.
 
 This project also requires a MapBox API key, which can be aquired at: MapBox. Depending on when this is viewed, you could be prompted to place a MapBox key into the indicated location in the main.js and restaurant_info.js files.
