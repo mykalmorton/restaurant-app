@@ -40,10 +40,11 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-Mozilla Developer Network MDN Documentation and Tutorials
-Udacity FEND Student Slack Group
-CSS-Tricks Tutorials and Guides
-Smashing Magazine Articles and Guides
+- Mozilla Developer Network MDN Documentation and Tutorials
+- Udacity FEND Student Slack Group
+- CSS-Tricks Tutorials and Guides
+- Smashing Magazine Articles and Guides
+
 Below are the original instructions provided by Udacity, for a more general idea as to what the project requirements were.
 
 Restaurant Reviews
